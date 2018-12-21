@@ -1,0 +1,2 @@
+# Taxi-Fare-Reimbursement
+The project was based on Web developement using Microsoft Visual studio and Oracle 11g express, where the details about the employees will be stored in the created database.The employees will be allowed to book a taxi and they will be polled together based on a condition.The employees will be alloted a driver and the details about the same will be sent to the employee on their email Id using smtp protocols. 
